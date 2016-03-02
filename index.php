@@ -27,7 +27,7 @@ $subjectsArray=$object->getAllSubject();
            <div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
 				<a class="navbar-brand" href="index.html"></a>
-			<a href="index.php" style="color:#3d84e6;text-decoration:none;"><h1>STEM Tutor management</h1></a>
+			<a href="index.php" style="color:#3d84e6;text-decoration:none;"><h1>STEM CENTER AUTOMATION DEPLOYMENT PROJECT</h1></a>
 			</div>
             
 <div class="collapse navbar-collapse" id="navbar-collapse-1">
